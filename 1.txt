@@ -1,1 +1,10 @@
-122222
+git init
+git add <file>
+git commit -m<discriable>
+git diff <file>
+git log
+git reflog
+git reset --hard HEAD^
+git reset --hard HEAD^^
+git reset --hard commit_id
+git cat <file>
